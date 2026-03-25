@@ -1,7 +1,7 @@
 ## Hi there 👋
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a group ptoject
+- 🔭 I’m currently working on a group project
 - 🌱 I’m currently learning cloud-security
 - 🤔 I’m looking for help with carrier direction 
 - 💬 Ask me about: how many reps to do.
