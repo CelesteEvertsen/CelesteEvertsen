@@ -8,7 +8,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Gym is fun, I speak Norwegian, Spanish and English
 -->
 # 💫 About Me:
-Learning something new is always on my to-do list.<br>Next stop: -Backend-development -cloudsecurity.<br><br>
+Learning something new is always on my to-do list.<br>Next stop:
+- Backend-development 
+- cloudsecurity.<br><br>
 
 
 ## 🌐 Socials:
