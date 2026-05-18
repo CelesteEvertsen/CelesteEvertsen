@@ -17,7 +17,7 @@ Learning something new is always on my to-do list.<br>Next stop:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celeste-evertsen) 
 
 ## 🖼️ Portfolio:
-https://celesteevertsen.netlify.app/
+[![Portofolio](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://celesteevertsen.netlify.app/
 
 
 # 💻 Tech Stack:
